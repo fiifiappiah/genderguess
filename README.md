@@ -22,6 +22,7 @@ cd genderguess
 composer install
 cd public
 php -S localhost:8001 
+php artisan migrate:refresh
 ```
 Go to localhost:8001
 
