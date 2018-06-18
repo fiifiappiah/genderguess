@@ -1,7 +1,9 @@
 # genderguess
 Guessing User's gender with the gender API
 
-To start, run composer install
+### PHP Requirement
+php ^7.1.3
+
 ### Installation
 
 Set relevant app configs such

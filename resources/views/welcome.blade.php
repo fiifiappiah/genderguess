@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/fiifiappiah/genderguess">GitHub</a>
                 </div>
             </div>
         </div>
